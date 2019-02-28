@@ -17,7 +17,6 @@ class Tag extends Component {
 class BoxTable extends Component {
     render() {
         const rows = this.props ? this.props.data || [] : [];
-        console.log(this.props);
         return (
             <div className="box">
                 <table className="table is-fullwidth">

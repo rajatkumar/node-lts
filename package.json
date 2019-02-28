@@ -3,6 +3,9 @@
     "homepage": "https://rajatkumar.github.io/node-lts",
     "version": "0.1.0",
     "private": true,
+    "author": {
+        "name": "Rajat Kumar"
+    },
     "dependencies": {
         "axios": "^0.18.0",
         "bulma": "^0.7.4",
